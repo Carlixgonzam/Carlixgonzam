@@ -9,7 +9,7 @@ I'm a passionate software developer with a love for learning and building innova
 - 🌱 I’m currently learning **Neural Networks**, **Java**, **C**, and **Agile Project Management**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **JavaScript**, **Python**, and **web development**.
-- 📫 How to reach me: [carlixgonzam@example.com](mailto:carlagonzalez024@outlook.com)
+- 📫 How to reach me: [carlagonzalez024@outlook.com](mailto:carlagonzalez024@outlook.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy hiking and playing the guitar in my free time.
 
@@ -35,9 +35,4 @@ I'm a passionate software developer with a love for learning and building innova
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/carlixgonzam/](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/))
 
 Thanks for visiting my profile! Have a great day! 😊
-```` ▋
-
-
-
-
-
+````
