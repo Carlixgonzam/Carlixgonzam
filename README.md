@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Carlixgonzam/Carlixgonzam/blob/main/imagen.jpeg">>
+    <img width="200" src="https://github.com/Carlixgonzam/Carlixgonzam/blob/main/33DE485B-729E-468C-AE11-7E3012E847E4_1_201_a.heic">>
 </p>
 
 # Hi there, I'm Carla Gonzalez 👋
