@@ -2,27 +2,41 @@
     <img width="200" src="https://github.com/Carlixgonzam/Carlixgonzam/blob/main/imagen.jpeg">>
 </p>
 
-<h1> Hello Welcome to my Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Hi there, I'm Carla Gonzalez 👋
 
+I'm a passionate software developer with a love for learning and building innovative projects. Here's a bit about me:
 
-<div size='20px'> Hi! My name is Carla. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+- 🌱 I’m currently learning **Neural Networks**, **Java**, **C**, and **Agile Project Management**.
+- 👯 I’m looking to collaborate on **open source projects**.
+- 💬 Ask me about **JavaScript**, **Python**, and **web development**.
+- 📫 How to reach me: [carlixgonzam@example.com](mailto:carlagonzalez024@outlook.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy hiking and playing the guitar in my free time.
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 🛠️ Technologies & Tools
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-- 🔭 I’m currently working on  I´m student of Systems and Computing Engineering
-  
-- 🌱 I’m currently learning Git, Java, Python, C++, Assembly y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Estructuras de Datos y Algoritmos
-  
-- ⚡ Fun fact: Soy Nadadora.
+## 📈 GitHub Stats
+
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/carlixgonzam/](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/))
+
+Thanks for visiting my profile! Have a great day! 😊
+```` ▋
+
 
 
 
