@@ -32,7 +32,7 @@ I'm a passionate software developer with a love for learning and building innova
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/carlixgonzam/](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
 
 Thanks for visiting my profile! Have a great day! 😊
 ````
