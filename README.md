@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://github.com/Carlixgonzam/Carlixgonzam/blob/main/IMG_4556.jpeg">>
-</p>
+
 
 # Hi there, I'm Carla Gonzalez 👋
 
