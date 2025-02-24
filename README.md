@@ -26,7 +26,7 @@ I'm a passionate software developer with a love for learning and building innova
 
 ## 📈 GitHub Stats
 
-![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=radical)
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=dark)
 
 ## 📫 Connect with me
 
