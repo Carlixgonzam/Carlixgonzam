@@ -1,4 +1,3 @@
-
 # Hi there, I’m Carla Gonzalez 👋
 
 I’m a passionate software developer with a keen interest in compilers, functional programming, computer vision and related fields. I enjoy exploring new paradigms and building tools that solve real problems.
@@ -28,13 +27,13 @@ I’m a passionate software developer with a keen interest in compilers, functio
 
 ## 📈 GitHub Stats
 
-![Carla’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=dark)
+![Carla’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=dark&include_all_commits=true)
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
 
 ---
 
