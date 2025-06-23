@@ -1,36 +1,41 @@
 
+# Hi there, I’m Carla Gonzalez 👋
 
-# Hi there, I'm Carla Gonzalez 👋
+I’m a passionate software developer with a keen interest in compilers, functional programming, computer vision and related fields. I enjoy exploring new paradigms and building tools that solve real problems.
 
-I'm a passionate software developer with a love for learning and building innovative projects. Here's a bit about me:
-
-- 🌱 I’m currently learning **Neural Networks**, **Java**, **C**, and **Agile Project Management**.
-- 👯 I’m looking to collaborate on **open source projects**.
-- 💬 Ask me about **JavaScript**, **Python**, and **web development**.
+- 🌱 I’m currently learning **Python**, **Java**, **Elixir**, **Haskell**, **C**, **C++** and **Unity**.
+- 👯 I’m looking to collaborate on **open-source projects** in the areas of compilers, functional programming and visual computing.
+- 💬 Ask me about **compiler design**, **purely functional techniques**, **image processing** and **systems programming**.
 - 📫 How to reach me: [carlagonzalez024@outlook.com](mailto:carlagonzalez024@outlook.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy hiking and playing the guitar in my free time.
+- ⚡ Fun fact: I enjoy hiking and playing guitar in my free time.
 
-## 🛠️ Technologies & Tools
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+## 🛠️ Languages & Tools
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir)
+![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+---
+
 ## 📈 GitHub Stats
 
-![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=dark)
+![Carla’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&show_icons=true&theme=dark)
+
+---
 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
 
-Thanks for visiting my profile! Have a great day! 😊
-````
+---
+
+*Thanks for visiting my profile — have a great day!* 😊
