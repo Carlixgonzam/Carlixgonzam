@@ -29,9 +29,17 @@ I’m a passionate software developer with a keen interest in compilers, functio
 
 ## 📈 GitHub Stats
 
-![Carlixgonzam's Stats](https://github-readme-stats.vercel.app/api?username=Carlixgonzam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Carlixgonzam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Carlixgonzam's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlixgonzam&theme=tokyonight&hide_border=true" alt="Carlixgonzam's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![Carlixgonzam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carlixgonzam&theme=tokyonight&hide_border=true)
 
 
 ---
