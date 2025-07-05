@@ -27,16 +27,13 @@ I’m a passionate software developer with a keen interest in compilers, functio
   <a href="https://www.haskell.org/" target="_blank" title="Haskell">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
   </a>
-  <a href="https://common-lisp.net/" target="_blank" title="Lisp (Functional Programming)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Lisp_logo.svg" alt="Lisp" width="40" height="40"/>
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 
   <!-- Compiladores y Build Systems -->
   <a href="https://llvm.org/" target="_blank" title="LLVM (Compilers)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LLVM_Logo.svg" alt="LLVM" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/LLVM#/media/File:LLVM_logo.png" alt="LLVM" width="40" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" title="CMake">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
