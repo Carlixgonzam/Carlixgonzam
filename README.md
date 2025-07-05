@@ -31,10 +31,7 @@ I’m a passionate software developer with a keen interest in compilers, functio
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 
-  <!-- Compiladores y Build Systems -->
-  <a href="https://llvm.org/" target="_blank" title="LLVM (Compilers)">
-    <img src="https://en.wikipedia.org/wiki/LLVM#/media/File:LLVM_logo.png" alt="LLVM" width="40" height="40"/>
-  </a>
+  
   <a href="https://cmake.org/" target="_blank" title="CMake">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
   </a>
