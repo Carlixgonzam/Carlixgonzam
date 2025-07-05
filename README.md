@@ -18,6 +18,8 @@ I’m a passionate software developer with a keen interest in compilers, functio
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://elixir-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"/></a>
   <a href="https://www.haskell.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/></a>
+  <a href="https://common-lisp.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Lisp_logo.svg" alt="Lisp" width="40" height="40"/></a>
+  <a href="https://llvm.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LLVM_Logo.svg" alt="LLVM" width="40" height="40"/></a>
   <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
