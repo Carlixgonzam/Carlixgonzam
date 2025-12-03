@@ -14,7 +14,6 @@ I’m a passionate software developer with a keen interest in compilers, functio
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Lenguajes -->
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -27,24 +26,22 @@ I’m a passionate software developer with a keen interest in compilers, functio
   <a href="https://www.haskell.org/" target="_blank" title="Haskell">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
   </a>
+  <a href="https://www.rascal-mpl.org/" target="_blank" title="Rascal">
+    <img src="https://www.rascal-mpl.org/images/logo_23/rascal_logo.svg" alt="Rascal" width="40" height="40"/>
+  </a>
+  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-
-  
   <a href="https://cmake.org/" target="_blank" title="CMake">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
   </a>
-
-  <!-- Lenguajes del sistema -->
   <a href="https://www.iso.org/standard/74528.html" target="_blank" title="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://isocpp.org/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-
-  <!-- Herramientas -->
   <a href="https://unity.com/" target="_blank" title="Unity">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
