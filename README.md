@@ -60,10 +60,10 @@ I’m a passionate software developer with a keen interest in compilers, functio
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Carlixgonzam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Carlixgonzam's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Carlixgonzam&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlixgonzam&theme=tokyonight&hide_border=true" alt="Carlixgonzam's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlixgonzam&theme=dracula&hide_border=true" />
     </td>
   </tr>
 </table>
