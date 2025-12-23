@@ -14,21 +14,21 @@ I’m a passionate software developer with a keen interest in compilers, functio
 
 ## 🔬 Compilers & Language Design
 
-```haskell
-data Passion = Compilers | LanguageDesign | TypeSystems | Metaprogramming
-
-myInterests :: [Passion] -> IO ()
-myInterests passions = do
-    putStrLn "// Transforming ideas into executable reality"
-    mapM_ explore passions
-  where
-    explore Compilers        = buildPipeline ["lexer", "parser", "codegen"]
-    explore LanguageDesign   = craft "elegant syntax & semantics"
-    explore TypeSystems      = prove "correctness through types"
-    explore Metaprogramming  = generate "code that writes code"
-
--- Currently exploring: Rascal MPL, LLVM, Haskell, formal methods
-
+```java
+public class Passion {
+    enum Interest { COMPILERS, LANGUAGE_DESIGN, TYPE_SYSTEMS, METAPROGRAMMING }
+    
+    public static void main(String[] args) {
+        System.out.println("// Transforming ideas into executable reality");
+        
+        explore(Interest.COMPILERS);        // buildPipeline: lexer -> parser -> codegen
+        explore(Interest.LANGUAGE_DESIGN);  // craft elegant syntax & semantics
+        explore(Interest.TYPE_SYSTEMS);     // prove correctness through types
+        explore(Interest.METAPROGRAMMING);  // generate code that writes code
+    }
+    
+    // Currently exploring: Rascal MPL, LLVM, Haskell, formal methods
+}
 ```
 
 ## 🛠️ Languages & Tools
