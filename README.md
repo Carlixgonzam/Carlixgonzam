@@ -11,6 +11,26 @@ I’m a passionate software developer with a keen interest in compilers, functio
 
 ---
 
+
+## 🔬 Compilers & Language Design
+
+```haskell
+data Passion = Compilers | LanguageDesign | TypeSystems | Metaprogramming
+
+myInterests :: [Passion] -> IO ()
+myInterests passions = do
+    putStrLn "// Transforming ideas into executable reality"
+    mapM_ explore passions
+  where
+    explore Compilers        = buildPipeline ["lexer", "parser", "codegen"]
+    explore LanguageDesign   = craft "elegant syntax & semantics"
+    explore TypeSystems      = prove "correctness through types"
+    explore Metaprogramming  = generate "code that writes code"
+
+-- Currently exploring: Rascal MPL, LLVM, Haskell, formal methods
+
+```
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
