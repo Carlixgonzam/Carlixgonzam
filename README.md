@@ -56,23 +56,6 @@ I’m a passionate software developer with a keen interest in compilers, functio
 
 ---
 
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Carlixgonzam&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlixgonzam&theme=dracula&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
