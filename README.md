@@ -1,65 +1,98 @@
-# Hi there, I’m Carla Gonzalez 👋
+<div align="center">
 
-I’m a passionate software developer with a keen interest in compilers, functional programming, computer vision and related fields. I enjoy exploring new paradigms and building tools that solve real problems.
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Carla!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Compiler%20Nerd%20%7C%20Functional%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **Python**, **Java**, **Elixir**, **Haskell**, **C**, **C++** and **Unity**.
-- 👯 I’m looking to collaborate on **open-source projects** in the areas of compilers, functional programming and visual computing.
-- 💬 Ask me about **compiler design**, **purely functional techniques**, **image processing** and **systems programming**.
-- 📫 How to reach me: [carlagonzalez024@outlook.com](mailto:carlagonzalez024@outlook.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy hiking and playing guitar in my free time.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Compiler+Design+%F0%9F%A7%A0;Functional+Programming+%F0%9F%93%90;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Systems+Programming+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile views badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=carlagonzalez&color=a78bfa&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carlagonzalez024@outlook.com)
+
+</div>
 
 ---
 
+## 🧠 About Me
+
+```python
+class Carla:
+    pronouns     = "she/her"
+    location     = "🌍 Earth"
+    passion      = ["compilers", "functional programming", "computer vision"]
+    learning     = ["Python", "Java", "Elixir", "Haskell", "C", "C++", "Unity"]
+    collaborate  = "open-source projects in compilers, FP & visual computing"
+    ask_me_about = ["compiler design", "purely functional techniques",
+                    "image processing", "systems programming"]
+    fun_fact     = "I hike trails and shred guitar strings 🎸🏔️"
+```
+
+---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://elixir-lang.org/" target="_blank" title="Elixir">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" title="Haskell">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
-  </a>
-  <a href="https://www.rascal-mpl.org/" target="_blank" title="Rascal">
-    <img src="https://www.rascal-mpl.org/images/logo_23/rascal_logo.svg" alt="Rascal" width="40" height="40"/>
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://cmake.org/" target="_blank" title="CMake">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
-  </a>
-  <a href="https://www.iso.org/standard/74528.html" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" title="Unity">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<div align="center">
+
+<!-- Languages -->
+**Languages**
+
+<p>
+  <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://elixir-lang.org/" title="Elixir"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.haskell.org/" title="Haskell"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.iso.org/standard/74528.html" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://www.rascal-mpl.org/" title="Rascal"><img src="https://www.rascal-mpl.org/images/logo_23/rascal_logo.svg" width="45" height="45"/></a>
 </p>
 
+**Tools & Platforms**
+
+<p>
+  <a href="https://unity.com/" title="Unity"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://cmake.org/" title="CMake"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
+</p>
+
+</div>
+
 ---
 
-## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| Area | Topics |
+|------|--------|
+| 🔧 Compilers | Parsing, AST transformations, code generation |
+| λ Functional | Pure functions, monads, type systems |
+| 👁️ Computer Vision | Image processing, feature detection |
+| 🎮 Game Dev | Unity, C# scripting, 3D environments |
+
+</div>
 
 ---
 
-*Thanks for visiting my profile — have a great day!* 😊
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+[![Email](https://img.shields.io/badge/Email-carlagonzalez024%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlagonzalez024@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+</div>
