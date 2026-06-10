@@ -1,98 +1,103 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20there,%20I'm%20Carla!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Compiler%20Nerd%20%7C%20Functional%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Carla%20González&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Language%20Systems%20Researcher%20%E2%80%A2%20Founder-in-Training&descAlignY=62&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Compiler+Design+%F0%9F%A7%A0;Functional+Programming+%F0%9F%93%90;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Systems+Programming+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+first+principles.;DSLs+for+human+performance.;Compilers+that+think+about+athletes.;XR+environments+where+code+meets+the+body.;AI+that+augments+decision-making." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=carlagonzalez&color=a78bfa&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carlagonzalez024@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla%20González-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+[![Email](https://img.shields.io/badge/Email-carlagonzalez024%40outlook.com-6D28D9?style=flat-square&logo=protonmail&logoColor=white)](mailto:carlagonzalez024@outlook.com)
+[![Universidad de los Andes](https://img.shields.io/badge/Universidad%20de%20los%20Andes-Colombia-C05621?style=flat-square)](https://uniandes.edu.co)
+![Visitor Count](https://komarev.com/ghpvc/?username=carlagonzalez&color=7C3AED&style=flat-square&label=Visitors)
+
+> **"Building intelligent systems that improve human performance, learning, and decision-making."**
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧬 Who I Am &nbsp;·&nbsp; 🔭 What I'm Building
 
-```python
-class Carla:
-    pronouns     = "she/her"
-    location     = "🌍 Earth"
-    passion      = ["compilers", "functional programming", "computer vision"]
-    learning     = ["Python", "Java", "Elixir", "Haskell", "C", "C++", "Unity"]
-    collaborate  = "open-source projects in compilers, FP & visual computing"
-    ask_me_about = ["compiler design", "purely functional techniques",
-                    "image processing", "systems programming"]
-    fun_fact     = "I hike trails and shred guitar strings 🎸🏔️"
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```haskell
+carla = Carla
+  { role   = [ "Systems Engineer"
+             , "DSL Designer"
+             , "AI Researcher"
+             , "Founder-in-Training" ]
+  , location = "Bogotá, Colombia 🇨🇴"
+  , athlete  = Swimmer { goal = FutureTriathlete }
+  , mission  = "Intelligent systems. Human impact."
+  }
 ```
 
+</td>
+<td width="50%" valign="top">
+
+| Layer | Now |
+|---|---|
+| **Language Eng.** | SwimmingDSL — Rascal + TypePal |
+| **AI Systems** | Multi-agent coaching architectures |
+| **XR** | VRDebugger — spatial runtime viz |
+| **Performance** | Athletic adaptation ML models |
+| **Startups** | Sports tech product validation |
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Tech Stack
 
 <div align="center">
-
-<!-- Languages -->
-**Languages**
 
 <p>
-  <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com/" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://elixir-lang.org/" title="Elixir"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.haskell.org/" title="Haskell"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.iso.org/standard/74528.html" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.rascal-mpl.org/" title="Rascal"><img src="https://www.rascal-mpl.org/images/logo_23/rascal_logo.svg" width="45" height="45"/></a>
+  <a title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="Haskell"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="Elixir"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a title="Rascal MPL"><img src="https://www.rascal-mpl.org/images/logo_23/rascal_logo.svg" width="40" height="40"/></a>
 </p>
-
-**Tools & Platforms**
 
 <p>
-  <a href="https://unity.com/" title="Unity"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://cmake.org/" title="CMake"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
+  <img src="https://img.shields.io/badge/AI%20Agents-LLMs%20%7C%20Tool%20Use%20%7C%20Planning-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSL%20Design-Rascal%20%7C%20TypePal%20%7C%20Grammars-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Compilers-Parsing%20%7C%20ASTs%20%7C%20Type%20Systems-5B21B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XR-Unity%20%7C%20Spatial%20UX-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ML-Scikit--learn%20%7C%20PyTorch-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Functional-Purity%20%7C%20Monads%20%7C%20Types-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20Microservices-EC4899?style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-
-## 🌱 Currently Exploring
+## 📬 Let's Build Something
 
 <div align="center">
 
-| Area | Topics |
-|------|--------|
-| 🔧 Compilers | Parsing, AST transformations, code generation |
-| λ Functional | Pure functions, monads, type systems |
-| 👁️ Computer Vision | Image processing, feature detection |
-| 🎮 Game Dev | Unity, C# scripting, 3D environments |
+I'm looking to connect with **researchers, founders, and engineers** at the edges of:
+
+`Programming Languages` &nbsp;·&nbsp; `AI Systems` &nbsp;·&nbsp; `Sports Technology` &nbsp;·&nbsp; `XR` &nbsp;·&nbsp; `Human Performance`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-6D28D9?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:carlagonzalez024@outlook.com)
+
+> *If you're building something ambitious at the intersection of AI, language theory, or human performance — I want to hear about it.*
 
 </div>
 
----
-
-## 📫 Connect with Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
-[![Email](https://img.shields.io/badge/Email-carlagonzalez024%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlagonzalez024@outlook.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
