@@ -42,9 +42,9 @@ carla = Carla
 
 | Layer | Now |
 |---|---|
-| **Language Eng.** | SwimmingDSL — Rascal + TypePal |
+| **Language Eng.** | SwimmingDSL Rascal + TypePal |
 | **AI Systems** | Multi-agent coaching architectures |
-| **XR** | VRDebugger — spatial runtime viz |
+| **XR** | VRDebugger spatial runtime viz |
 | **Performance** | Athletic adaptation ML models |
 | **Startups** | Sports tech product validation |
 
