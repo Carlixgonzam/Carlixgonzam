@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Carla%20González&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Language%20Systems%20Researcher%20%E2%80%A2%20Founder-in-Training&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Carla%20González&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Quantum%20%26%20Language%20Systems%20Researcher%20%E2%80%A2%20Founder-in-Training&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+first+principles.;DSLs+for+human+performance.;Compilers+that+think+about+athletes.;XR+environments+where+code+meets+the+body.;AI+that+augments+decision-making." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+from+first+principles.;DSLs+for+human+performance.;Compilers+that+think+about+athletes.;Grover%2C+Shor%2C+and+the+limits+of+classical+search.;Business+processes%2C+modeled+like+distributed+systems.;XR+environments+where+code+meets+the+body.;AI+that+augments+decision-making." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,6 +29,8 @@
 carla = Carla
   { role   = [ "Systems Engineer"
              , "DSL Designer"
+             , "Quantum Algorithms Explorer"
+             , "Business Process Engineer"
              , "AI Researcher"
              , "Founder-in-Training" ]
   , location = "Bogotá, Colombia 🇨🇴"
@@ -42,11 +44,13 @@ carla = Carla
 
 | Layer | Now |
 |---|---|
-| **Language Eng.** | SwimmingDSL Rascal + TypePal |
+| **Language Eng.** | SwimmingDSL — Rascal + TypePal |
+| **Quantum Computing** | Grover, Shor, phase estimation — IBM Qiskit |
+| **Business Process Eng.** | Capability maps, TOGAF-aligned architecture |
 | **AI Systems** | Multi-agent coaching architectures |
-| **XR** | VRDebugger spatial runtime viz |
+| **XR** | VRDebugger — spatial runtime viz |
 | **Performance** | Athletic adaptation ML models |
-| **Startups** | Sports tech product validation |
+| **Startups** | Continuum — AI voice-based chronic care |
 
 </td>
 </tr>
@@ -70,6 +74,8 @@ carla = Carla
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-Qiskit%20%7C%20Grover%20%7C%20Shor-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Process%20Eng-TOGAF%20%7C%20Capability%20Maps%20%7C%20BPMN-F97316?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI%20Agents-LLMs%20%7C%20Tool%20Use%20%7C%20Planning-7C3AED?style=flat-square"/>
   <img src="https://img.shields.io/badge/DSL%20Design-Rascal%20%7C%20TypePal%20%7C%20Grammars-6D28D9?style=flat-square"/>
   <img src="https://img.shields.io/badge/Compilers-Parsing%20%7C%20ASTs%20%7C%20Type%20Systems-5B21B6?style=flat-square"/>
@@ -89,12 +95,12 @@ carla = Carla
 
 I'm looking to connect with **researchers, founders, and engineers** at the edges of:
 
-`Programming Languages` &nbsp;·&nbsp; `AI Systems` &nbsp;·&nbsp; `Sports Technology` &nbsp;·&nbsp; `XR` &nbsp;·&nbsp; `Human Performance`
+`Programming Languages` &nbsp;·&nbsp; `AI Systems` &nbsp;·&nbsp; `Quantum Computing` &nbsp;·&nbsp; `Business Process Engineering` &nbsp;·&nbsp; `Sports Technology` &nbsp;·&nbsp; `XR` &nbsp;·&nbsp; `Human Performance`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-fernanda-gonz%C3%A1lez-mina-060aa1302/)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-6D28D9?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:carlagonzalez024@outlook.com)
 
-> *If you're building something ambitious at the intersection of AI, language theory, or human performance — I want to hear about it.*
+> *If you're building something ambitious at the intersection of AI, quantum computing, language theory, or human performance — I want to hear about it.*
 
 </div>
 
